@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-02-04 09:00:11",
+  "seed": 42,
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "normalize_embeddings": true,
+  "chunking": {
+    "use_chunking": true,
+    "chunk_tokens": 200,
+    "chunk_overlap": 40,
+    "chunk_agg": "mean"
+  },
+  "n_docs": 168,
+  "emb_dim": 384,
+  "python": "3.12.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "sentence_transformers_version": "5.1.0",
+  "torch_version": "2.8.0+cpu",
+  "files_sig": "332f07681f012880e6cc29f0ce8ea37a"
+}

@@ -1,0 +1,5 @@
+{
+  "emb_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "seed": 42,
+  "corpus_fp": "adba1e13db6cb7bb5ec4ea9cdcea8c35"
+}
